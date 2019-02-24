@@ -7,7 +7,7 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get --quiet --yes update \
         avrdude \
         avrp \
         avrprog \
-#        build-essential \
+        build-essential \
         binutils-avr \
         gcc-avr \
         gdb-avr \
